@@ -13,3 +13,6 @@
 [submodule "Paper-V"]
 	path = Paper-V
 	url = git@github.com:ALICE-InRu/Paper-V.git
+[submodule "Paper-VI"]
+	path = Paper-VI
+	url = git@github.com:ALICE-InRu/Paper-VI.git
